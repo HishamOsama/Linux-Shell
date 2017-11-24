@@ -1,0 +1,455 @@
+# depslib dependency file v1.0
+1507276083 source:/home/hisham/Projects/FinalVersion/ShellProject/CommandParser.cpp
+	"CommandParser.h"
+	<string.h>
+
+1507278806 /home/hisham/Projects/FinalVersion/ShellProject/CommandParser.h
+
+1507298752 source:/home/hisham/Projects/FinalVersion/ShellProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"commands/CommandParser.h"
+	"commands/Commands.h"
+	"variables/Variables.h"
+
+1507276083 /home/hisham/Projects/FinalVersion/ShellProject/CommandParser.cpp
+	"CommandParser.h"
+	<string.h>
+
+1507246843 source:/home/hisham/Projects/FinalVersion/ShellProject/CommandParser.h
+
+1507278175 source:/home/hisham/Projects/FinalVersion/ShellProject/Commands.cpp
+	"Commands.h"
+	"Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507292024 /home/hisham/Projects/FinalVersion/ShellProject/Commands.h
+
+1507295621 /home/hisham/Projects/FinalVersion/ShellProject/Variables.h
+
+1507278193 /home/hisham/Projects/FinalVersion/ShellProject/Variables.cpp
+	"Variables.h"
+	"CommandParser.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1507278193 source:/home/hisham/Projects/FinalVersion/ShellProject/Variables.cpp
+	"Variables.h"
+	"CommandParser.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1507278388 source:/home/hisham/Projects/FinalVersion/ShellProject/CommandParser.c
+	"CommandParser.h"
+	<string.h>
+
+1507292013 source:/home/hisham/Projects/FinalVersion/ShellProject/Commands.c
+	"Commands.h"
+	"Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507296001 source:/home/hisham/Projects/FinalVersion/ShellProject/Variables.c
+	"Variables.h"
+	"CommandParser.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1507295876 source:/home/hisham/Projects/FinalVersion/ShellProject (copy)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CommandParser.h"
+	"Commands.h"
+	"Variables.h"
+
+1507278388 source:/home/hisham/Projects/FinalVersion/ShellProject (copy)/commands/CommandParser.c
+	"CommandParser.h"
+	<string.h>
+
+1507278806 /home/hisham/Projects/FinalVersion/ShellProject (copy)/commands/CommandParser.h
+
+1507292013 source:/home/hisham/Projects/FinalVersion/ShellProject (copy)/commands/Commands.c
+	"Commands.h"
+	"Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507292024 /home/hisham/Projects/FinalVersion/ShellProject (copy)/commands/Commands.h
+
+1507296046 source:/home/hisham/Projects/FinalVersion/ShellProject (copy)/variables/Variables.c
+	"Variables.h"
+	"CommandParser.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1507295621 /home/hisham/Projects/FinalVersion/ShellProject (copy)/variables/Variables.h
+
+1507278388 source:/home/hisham/Projects/FinalVersion/ShellProject/commands/CommandParser.c
+	"CommandParser.h"
+	<string.h>
+
+1507278806 /home/hisham/Projects/FinalVersion/ShellProject/commands/CommandParser.h
+
+1507298714 source:/home/hisham/Projects/FinalVersion/ShellProject/commands/Commands.c
+	"Commands.h"
+	"variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507292024 /home/hisham/Projects/FinalVersion/ShellProject/commands/Commands.h
+
+1507298759 source:/home/hisham/Projects/FinalVersion/ShellProject/variables/Variables.c
+	"Variables.h"
+	"commands/CommandParser.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1507295621 /home/hisham/Projects/FinalVersion/ShellProject/variables/Variables.h
+
+1507314080 source:/home/hisham/Projects/lab1_81/ShellProject/commands/CommandParser.c
+	"CommandParser.h"
+	"../constants/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507313411 /home/hisham/Projects/lab1_81/ShellProject/commands/CommandParser.h
+
+1507306934 source:/home/hisham/Projects/lab1_81/ShellProject/commands/Commands.c
+	"Commands.h"
+	"CommandParser.h"
+	"../variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507292024 /home/hisham/Projects/lab1_81/ShellProject/commands/Commands.h
+
+1507806971 source:/home/hisham/Projects/lab1_81/ShellProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"parser/CommandParser.h"
+	"parser/Utils.h"
+	"files/FileProcessing.h"
+	"files/FileSetup.h"
+	"executor/CommandExecutor.h"
+	"utils/Constants.h"
+
+1507775298 /home/hisham/Projects/lab1_81/ShellProject/variables/Variables.h
+
+1507778272 source:/home/hisham/Projects/lab1_81/ShellProject/variables/Variables.c
+	"Variables.h"
+	"../parser/CommandParser.h"
+	"../parser/Utils.h"
+	"../utils/Constants.h"
+	"../executor/CommandExecutor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1507301979 source:/home/hisham/Projects/lab1_81/ShellProject/constants/Constants.cpp
+	"Constants.h"
+
+1507305991 /home/hisham/Projects/lab1_81/ShellProject/constants/Constants.h
+
+1507316742 source:/home/hisham/Projects/lab1_81/ShellProject/constants/Constants.c
+	"Constants.h"
+
+1507774212 /home/hisham/Projects/lab1_81/ShellProject/parser/CommandParser.h
+
+1507578814 /home/hisham/Projects/lab1_81/ShellProject/parser/Commands.h
+
+1507774239 /home/hisham/Projects/lab1_81/ShellProject/parser/Utils.h
+
+1507761161 /home/hisham/Projects/lab1_81/ShellProject/utils/Constants.h
+
+1507757550 source:/home/hisham/Projects/lab1_81/ShellProject/parser/CommandParser.c
+	"CommandParser.h"
+	"Utils.h"
+	"../utils/Constants.h"
+	"../variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507662325 source:/home/hisham/Projects/lab1_81/ShellProject/parser/Commands.c
+	"Commands.h"
+	"CommandParser.h"
+	"../variables/Variables.h"
+	"../files/FileProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507761140 source:/home/hisham/Projects/lab1_81/ShellProject/utils/Constants.c
+	"Constants.h"
+
+1507761821 source:/home/hisham/Projects/lab1_81/ShellProject/parser/Utils.c
+	"Utils.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1507758080 source:/home/hisham/Projects/lab1_81/ShellProject/files/FileProcessing.c
+	"FileProcessing.h"
+	"../utils/Constants.h"
+	<stdio.h>
+
+1507765230 /home/hisham/Projects/lab1_81/ShellProject/files/FileProcessing.h
+	<stdio.h>
+
+1507657743 source:/home/hisham/Projects/lab1_81/ShellProject/variables/EnvironmentVariables.cpp
+	"EnvironmentVariables.h"
+
+1507334257 /home/hisham/Projects/lab1_81/ShellProject/variables/EnvironmentVariables.h
+
+1507335574 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/files/FileProcessing.c
+	"FileProcessing.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507333021 /home/hisham/Projects/lab1_81_Recovery/ShellProject/files/FileProcessing.h
+
+1507335829 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/Commands.c
+	"Commands.h"
+	"CommandParser.h"
+	"../variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507292024 /home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/Commands.h
+
+1507321561 /home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/CommandParser.h
+
+1507334150 /home/hisham/Projects/lab1_81_Recovery/ShellProject/variables/Variables.h
+
+1507474057 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/Utils.c
+	"Utils.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507319854 /home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/Utils.h
+
+1507335467 /home/hisham/Projects/lab1_81_Recovery/ShellProject/utils/Constants.h
+
+1507473797 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/utils/Constants.c
+	"Constants.h"
+
+1507334252 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/variables/EnvironmentVariables.cpp
+	"EnvironmentVariables.h"
+
+1507334257 /home/hisham/Projects/lab1_81_Recovery/ShellProject/variables/EnvironmentVariables.h
+
+1507474046 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/variables/Variables.c
+	"Variables.h"
+	"../utils/Constants.h"
+	"CommandParser.h"
+	"Commands.h"
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1507474143 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"CommandParser.h"
+	"Commands.h"
+	"Utils.h"
+	"utils/Constants.h"
+	"files/FileProcessing.h"
+
+1507474117 source:/home/hisham/Projects/lab1_81_Recovery/ShellProject/parser/CommandParser.c
+	"CommandParser.h"
+	"Utils.h"
+	"../utils/Constants.h"
+	"../variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507774879 source:/home/hisham/Projects/lab1_81/ShellProject/files/FileSetup.c
+	"FileSetup.h"
+	"FileProcessing.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507764619 /home/hisham/Projects/lab1_81/ShellProject/files/FileSetup.h
+
+1507764838 source:/home/hisham/Projects/lab1_81/ShellProject/executor/CommandExecutor.c
+	"CommandExecutor.h"
+	"Utils.h"
+	"../utils/Constants.h"
+	"../variables/Variables.h"
+	"../files/FileProcessing.h"
+	"../files/FileSetup.h"
+	"../parser/CommandParser.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507764792 /home/hisham/Projects/lab1_81/ShellProject/executor/CommandExecutor.h
+
+1507765142 source:/home/hisham/Projects/lab1_81/ShellProject/executor/Utils.c
+	"Utils.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1507765199 /home/hisham/Projects/lab1_81/ShellProject/executor/Utils.h
+
+1507671061 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/executor/CommandExecutor.c
+	"CommandExecutor.h"
+	"Utils.h"
+	"../variables/Variables.h"
+	"../files/FileProcessing.h"
+	"../files/FileSetup.h"
+	"../parser/CommandParser.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	<wait.h>
+	<ctype.h>
+
+1507670838 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/executor/CommandExecutor.h
+
+1507670841 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/executor/Utils.h
+
+1507580481 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/variables/Variables.h
+
+1507660340 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/files/FileProcessing.h
+	<stdio.h>
+
+1507658484 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/files/FileSetup.h
+
+1507667651 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/parser/CommandParser.h
+
+1507670872 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/executor/Utils.c
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1507666788 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/files/FileProcessing.c
+	"FileProcessing.h"
+	"../utils/Constants.h"
+	<stdio.h>
+
+1507571958 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/utils/Constants.h
+
+1507662035 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/files/FileSetup.c
+	"FileSetup.h"
+	"FileProcessing.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507670882 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../executor/CommandExecutor.h"
+	"files/FileProcessing.h"
+	"files/FileSetup.h"
+	"parser/CommandParser.h"
+	"parser/Utils.h"
+	"utils/Constants.h"
+
+1507667920 /home/hisham/Projects/lab1_81_Recovery_2/ShellProject/parser/Utils.h
+
+1507668004 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/parser/CommandParser.c
+	"CommandParser.h"
+	"Utils.h"
+	"../utils/Constants.h"
+	"../variables/Variables.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507667961 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/parser/Utils.c
+	"Utils.h"
+	"../utils/Constants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507667743 source:/home/hisham/Projects/lab1_81_Recovery_2/ShellProject/utils/Constants.c
+	"Constants.h"
+
+1507682252 source:/home/hisham/Projects/lab1_81/ShellProject/variables/Utils.c
+	"Utils.h"
+	"Variables.h"
+	"../utils/Constants.h"
+	"../parser/CommandParser.h"
+	"../parser/Utils.h"
+	"../executor/CommandExecutor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1507682276 /home/hisham/Projects/lab1_81/ShellProject/variables/Utils.h
+

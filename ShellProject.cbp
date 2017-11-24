@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ShellProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ShellProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/home/hisham/Projects/FinalVersion/ShellProject" />
+					<Add directory="constants" />
+					<Add directory="parser" />
+					<Add directory="variables" />
+					<Add directory="files" />
+					<Add directory="executor" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ShellProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="constants" />
+					<Add directory="parser" />
+					<Add directory="variables" />
+					<Add directory="files" />
+					<Add directory="executor" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ShellProject.cbp" />
+		<Unit filename="ShellProject.depend" />
+		<Unit filename="ShellProject.layout" />
+		<Unit filename="executor/CommandExecutor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="executor/CommandExecutor.h" />
+		<Unit filename="executor/Utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="executor/Utils.h" />
+		<Unit filename="files/FileProcessing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="files/FileProcessing.h" />
+		<Unit filename="files/FileSetup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="files/FileSetup.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parser/CommandParser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parser/CommandParser.h" />
+		<Unit filename="parser/Utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parser/Utils.h" />
+		<Unit filename="utils/Constants.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utils/Constants.h" />
+		<Unit filename="variables/Variables.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="variables/Variables.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
